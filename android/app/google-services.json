@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "152511572016",
+    "firebase_url": "https://godmodechallenge-default-rtdb.firebaseio.com",
+    "project_id": "godmodechallenge",
+    "storage_bucket": "godmodechallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152511572016:android:1daa19c3bf8db9df1a25f5",
+        "android_client_info": {
+          "package_name": "com.godmodechallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152511572016-1ajfuthmvb4ef1g1kuc9f05kdtc54fk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.godmodechallenge",
+            "certificate_hash": "4a11c001d9824af7fe297aba6bad008e219ea740"
+          }
+        },
+        {
+          "client_id": "152511572016-n7b0qoq46llm0ite9tr48m1adn2ia6l2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.godmodechallenge",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "152511572016-6eospf3mer5ee6c396rcd4bdrt031lkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEs6f82xBPKKPfJI6SzaLJxwfL-esuXJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152511572016-6eospf3mer5ee6c396rcd4bdrt031lkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

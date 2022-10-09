@@ -1,0 +1,10 @@
+// await firestore().collection('Users').where('user', '==', auth()?.currentUser?.uid).get()
+                  // .then(function (querySnapshot) {
+                  //   querySnapshot.forEach(function (doc) {
+                  //     doc.ref.update({
+                  //       challenge_details: NewChallenge_details,
+                  //     })
+                  //   });
+                  // }).catch(function (err) {
+                  //   console.log(err);
+                  // });

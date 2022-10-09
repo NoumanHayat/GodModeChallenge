@@ -1,0 +1,7 @@
+{
+  "name": "GodModeChallenge",
+  "displayName": "God Mode Challenge",
+  "splash": {
+    "image": "./assets/images/splash.png"
+  }
+}
